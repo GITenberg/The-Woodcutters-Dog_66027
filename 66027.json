@@ -1,0 +1,29 @@
+{
+    "GENERATED": "2021/08/10 02:04:26",
+    "VERSION": "1.01",
+    "DATA": {
+        "TITLE": "The Woodcutter\u2019s Dog",
+        "CONTRIBUTOR": [
+            {
+                "name": "Charles Nodier",
+                "role": "author"
+            },
+            {
+                "name": "Claud Lovat Fraser",
+                "role": "illustrator"
+            }
+        ],
+        "SCANS_ARCHIVE_URL": [
+            "https://archive.org/details/woodcuttersdognodi/page/n7/mode/2up"
+        ],
+        "CREDIT": "Tim Lindell, Donald Cummings and the Online Distributed Proofreading Team at https://www.pgdp.net (This file was produced from images generously made available by The Internet Archive/American Libraries.)",
+        "LANGUAGE": "English",
+        "PUBLISHER": "Daniel O\u2019Connor",
+        "PUBLISHER_COUNTRY": "GB",
+        "SOURCE_PUBLICATION_YEARS": [
+            "pubdate:1921"
+        ],
+        "REQUEST_KEY": "20201207072144nodier",
+        "EBOOK_NUMBER": "66027"
+    }
+}
