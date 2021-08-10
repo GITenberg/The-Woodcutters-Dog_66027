@@ -1,0 +1,33 @@
+_repo: The-Woodcutters-Dog_66027
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Fraser, Claud Lovat
+    birthdate: 1890
+    deathdate: 1921
+    gutenberg_agent_id: '26493'
+    url: http://www.gutenberg.org/2009/agents/26493
+creator:
+  author:
+    agent_name: Nodier, Charles
+    alias: Nodier, Jean Charles Emmanuel
+    birthdate: 1780
+    deathdate: 1844
+    gutenberg_agent_id: '7795'
+    url: http://www.gutenberg.org/2009/agents/7795
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Charles_Nodier
+    - http://en.wikipedia.org/wiki/Charles_Nodier
+description: ''
+gutenberg_issued: '2021-08-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '66027'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Woodcutter’s Dog
+url: http://www.gutenberg.org/ebooks/66027
